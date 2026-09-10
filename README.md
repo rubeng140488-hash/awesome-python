@@ -10,7 +10,7 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 
 ## Categories
 
-**AI & ML**
+  **AI & ML
 
 - [AI and Agents](#ai-and-agents)
 - [Deep Learning](#deep-learning)
